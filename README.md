@@ -1,2 +1,2 @@
 # pracpython
-this is for my study
+this is for Shenyi
