@@ -5,12 +5,12 @@ sleep(3)
 print("Let us proceed with the first question.")
 sleep(1)
 print("What is the square root of 4?")
-x = input() #Mod 1 - Variables and #Mod 1 - Simple Input & Output
-if x == "2": #Mod 2 - Operator Precedence
+x = input() 
+if x == "2": 
   sleep(2)
   print("That is correct.")
-  score = score + 5000 #Mod 1 - Simple Operations
-  print("Your score is " + str(score) + ".") #Mod 1 - String Operations
+  score = score + 5000 
+  print("Your score is " + str(score) + ".") 
 else:
   sleep(2)
   print("Sorry, you are incorrect. The correct answer was 2.")
